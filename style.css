@@ -15,12 +15,13 @@ html {
   color: #fff;
 }
 #page_nav .brand {
-  margin: 10px;
-  text-align: center;
+  margin: 0;
+  padding: 0;
 }
 #page_nav ul {
   list-style-type: none;
   padding: 0;
+  margin: 0;
 }
 #page_nav ul li {
   margin: 0;
@@ -46,6 +47,9 @@ html {
 #page_container {
   flex: 1 1 auto;
   overflow: auto;
+}
+#page_container h1 {
+  margin: 0;
 }
 #page_content {
   word-wrap: break-word;
