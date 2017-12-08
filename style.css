@@ -1,9 +1,25 @@
+/*
+Theme Name: jyoken-template
+Author: sei0o
+*/
 body,
 html {
   margin: 0;
   padding: 0;
   min-height: 100vh;
 }
+body,
+font-family 游ゴシック体,
+'Yu Gothic',
+YuGothic,
+'ヒラギノ角ゴシック Pro',
+'Hiragino Kaku Gothic Pro',
+メイリオ,
+Meiryo,
+Osaka,
+'ＭＳ Ｐゴシック',
+'MS PGothic',
+sans-serif,
 #wrapper {
   display: flex;
   height: 100vh;
